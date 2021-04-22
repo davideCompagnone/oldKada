@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/compagnoneda/Desktop/Personal/Programmazione/JAR/avro-1.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/compagnoneda/Desktop/Personal/Programmazione/JAR/gson-2.8.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/compagnoneda/Desktop/Personal/Programmazione/JAR/jackson-annotations-2.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/compagnoneda/Desktop/Personal/Programmazione/JAR/jackson-core-2.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/compagnoneda/Desktop/Personal/Programmazione/JAR/jackson-databind-2.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/compagnoneda/Desktop/Personal/Programmazione/JAR/json-20201115.jar"/>
+	<classpathentry kind="lib" path="C:/Users/compagnoneda/Desktop/Personal/Programmazione/JAR/mysql-connector-java-8.0.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/compagnoneda/Desktop/Personal/Programmazione/JAR/slf4j-api-1.7.30.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
